@@ -22,7 +22,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/kfiroo/react-native-cached-image"
+    "url": "https://github.com/nick-melia/react-native-cached-image"
   },
   "keywords": [
     "react-native",
@@ -43,7 +43,8 @@
     "ImageCacheManagerOptionsPropTypes.js",
     "ImageCachePreloader.js",
     "utils/fsUtils.js",
-    "utils/pathUtils.js"
+    "utils/pathUtils.js",
+    "index.d.ts"
   ],
   "typings": "./index.d.ts",
   "dependencies": {
